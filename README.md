@@ -1,4 +1,6 @@
-### Git Basics and useful commands
+## Git Basics and useful commands
+
+### Git Basics
 
 #### git config
 - configure author name and email adress
@@ -70,6 +72,8 @@ git log
 - to see what all changes are done in a commit
 - git show `commit ID`
 
+### Branches - 
+
 Let's start working with branches 
 
 
@@ -93,6 +97,7 @@ Let's start working with branches
 - `git merge "branch name"`
     - merges given branch in the current branch
 
+### Colloboration with others - 
 Let's colloborate with others using remote repos
 
 

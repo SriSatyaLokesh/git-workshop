@@ -118,3 +118,7 @@ git pull https://github.com/SriSatyaLokesh/git-workshop
 - cherry-pick
 - rebase
 - etc
+
+**It's not simple but it's useful. But start using and practice, you'll end up loving git** 
+
+![meme](https://pics.me.me/in-case-of-fire-o-git-commit-git-push-leave-27658812.png)

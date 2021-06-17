@@ -70,8 +70,11 @@ git log
 - to see what all changes are done in a commit
 - git show `commit ID`
 
-Let's start working woth branches 
-![branches](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
+Let's start working with branches 
+
+
+<img src="https://www.nobledesktop.com/image/gitresources/git-branches-merge.png" alt="Your image title" width="450"/>
+
 #### git branch
 - `git branch`
     - lists all branch names
@@ -90,8 +93,11 @@ Let's start working woth branches
 - `git merge "branch name"`
     - merges given branch in the current branch
 
-Let's colloborarw with others usinf remote repos
-![Remote repos](https://www.cs.swarthmore.edu/~newhall/unixhelp/gitrepos.gif)
+Let's colloborate with others using remote repos
+
+
+<img src="https://www.cs.swarthmore.edu/~newhall/unixhelp/gitrepos.gif" alt="Your image title" width="450"/>
+
 #### git remote
 - to connect your local repo to the remote repo
 - git remote add origin `"Remote Server Link"` 
@@ -112,7 +118,9 @@ git pull https://github.com/SriSatyaLokesh/git-workshop
 ````
 #### git stash and pop
 - just to save the copy of changes, before switching branches and can revert back using pop
-![stash and pop](https://static.javatpoint.com/tutorial/git/images/git-stash.png)
+
+
+<img src="https://static.javatpoint.com/tutorial/git/images/git-stash.png" alt="Your image title" width="450"/>
 
 #### other commands
 - cherry-pick
@@ -121,4 +129,4 @@ git pull https://github.com/SriSatyaLokesh/git-workshop
 
 **It's not simple but it's useful. But start using and practice, you'll end up loving git** 
 
-![meme](https://pics.me.me/in-case-of-fire-o-git-commit-git-push-leave-27658812.png)
+<img src="https://pics.me.me/in-case-of-fire-o-git-commit-git-push-leave-27658812.png" alt="Your image title" width="450"/>

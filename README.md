@@ -70,7 +70,7 @@ git log
 - to see what all changes are done in a commit
 - git show `commit ID`
 
-Let's start working woth branches 
+Let's start working woth branches     
 ![branches](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
 #### git branch
 - `git branch`
@@ -90,7 +90,7 @@ Let's start working woth branches
 - `git merge "branch name"`
     - merges given branch in the current branch
 
-Let's colloborarw with others usinf remote repos
+Let's colloborarw with others usinf remote repos      
 ![Remote repos](https://www.cs.swarthmore.edu/~newhall/unixhelp/gitrepos.gif)
 #### git remote
 - to connect your local repo to the remote repo
@@ -111,7 +111,7 @@ git add origin https://github.com/SriSatyaLokesh/git-workshop
 git pull https://github.com/SriSatyaLokesh/git-workshop
 ````
 #### git stash and pop
-- just to save the copy of changes, before switching branches and can revert back using pop
+- just to save the copy of changes, before switching branches and can revert back using pop     
 ![image](https://user-images.githubusercontent.com/43106076/122389361-7cbd0480-cf8e-11eb-9000-9b99c8475261.png)
 
 #### other commands

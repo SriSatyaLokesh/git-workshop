@@ -112,7 +112,7 @@ git pull https://github.com/SriSatyaLokesh/git-workshop
 ````
 #### git stash and pop
 - just to save the copy of changes, before switching branches and can revert back using pop
-![stash and pop](https://static.javatpoint.com/tutorial/git/images/git-stash.png)
+![image](https://user-images.githubusercontent.com/43106076/122389361-7cbd0480-cf8e-11eb-9000-9b99c8475261.png)
 
 #### other commands
 - cherry-pick

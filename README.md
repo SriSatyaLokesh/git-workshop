@@ -75,6 +75,8 @@ Let's start working with branches
 
 <img src="https://www.nobledesktop.com/image/gitresources/git-branches-merge.png" alt="Your image title" width="450"/>
 
+Let's start working woth branches     
+![branches](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
 #### git branch
 - `git branch`
     - lists all branch names
@@ -84,7 +86,7 @@ Let's start working with branches
     - [-d] - Soft Delete
     - [-D] - Hard Delete
 #### git checkout 
-- to swich between branches
+- to switch between branches
 - `git checkout "branch name"`
     - to switch to specified branch
 - `git checkout -b "branch name"`
@@ -98,6 +100,8 @@ Let's colloborate with others using remote repos
 
 <img src="https://www.cs.swarthmore.edu/~newhall/unixhelp/gitrepos.gif" alt="Your image title" width="450"/>
 
+Let's colloborarw with others usinf remote repos      
+![Remote repos](https://www.cs.swarthmore.edu/~newhall/unixhelp/gitrepos.gif)
 #### git remote
 - to connect your local repo to the remote repo
 - git remote add origin `"Remote Server Link"` 
@@ -120,7 +124,9 @@ git pull https://github.com/SriSatyaLokesh/git-workshop
 - just to save the copy of changes, before switching branches and can revert back using pop
 
 
-<img src="https://static.javatpoint.com/tutorial/git/images/git-stash.png" alt="Your image title" width="450"/>
+<img src="https://user-images.githubusercontent.com/43106076/122389361-7cbd0480-cf8e-11eb-9000-9b99c8475261.png" alt="Your image title" width="450"/>
+
+- just to save the copy of changes, before switching branches and can revert back using pop     
 
 #### other commands
 - cherry-pick

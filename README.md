@@ -1,4 +1,4 @@
-## Git Basics and useful commands
+## Git Basics and Useful commands
 
 ### Git Basics
 

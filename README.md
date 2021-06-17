@@ -7,31 +7,39 @@
 - git config –global user.name `“name”`
 
 - git config –global user.email `“email address”`
+
 ```
 git config –global user.name "MyName"
 
 git config –global user.email "myname@mymail.com"
 ```
+
 #### git init
 - Initialize git in your repository
 - git init `repository name`
+
 ```
 git init [OR] git init \home\desktop\repoName
 ```
+
 #### git clone
 - to clone a remote repository
 - git clone `url`
+
 ```
 git clone https://github.com/SriSatyaLokesh/git-workshop
 ```
+
 #### git add
 - to add files to staging (commit list)
 - git add `filename`
 - git add . - to add all files
+
 ```
 git add README.md
 git add .
 ```
+
 #### git diff
 - to see what files are in staging, what are changes made
 - git diff
@@ -40,12 +48,15 @@ git add .
     - changes that are staged
 - git `branch 1` `branch 2`
     - check differences between branches
+
 #### git commit
 - to commit changes made in file, each commit is a save point.
 - git commit -m `"commit message"`
+
 ```
 git commit -m "Added README.md"
 ```
+
 #### git reset
 - to unstage a file
 - git reset `file`
@@ -53,21 +64,30 @@ git commit -m "Added README.md"
     - undo commit changes [preserves a copy]
 - git reset --hard `commit ID`
     - undo commit changes and discards
+
+
 #### git status
 - shows files that are to be commited
+
 ```
 git status
 ```
+
 #### git rm
+
 - to remove a file from git repo
+
 ```
 git rm README.md
 ```
+
 #### git log 
 - to see commit log, everything abour commits - what, when, who, where
+
 ``` 
 git log
 ``` 
+
 #### git show 
 - to see what all changes are done in a commit
 - git show `commit ID`
@@ -107,9 +127,11 @@ Let's colloborate with others using remote repos
 #### git remote
 - to connect your local repo to the remote repo
 - git remote add origin `"Remote Server Link"` 
+
 ```
 git add origin https://github.com/SriSatyaLokesh/git-workshop
 ```
+
 #### git push
 - to push your commits from local repo to remote repo
 - git push origin `"branch name"`
@@ -119,9 +141,11 @@ git add origin https://github.com/SriSatyaLokesh/git-workshop
 #### git pull
 - to pull remote changes into local repo
 - git pull `"remote repo URL"`
+
 ```
 git pull https://github.com/SriSatyaLokesh/git-workshop
 ````
+
 #### git stash and pop
 - just to save the copy of changes, before switching branches and can revert back using pop
 

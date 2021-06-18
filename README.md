@@ -8,7 +8,7 @@
 
 - git config –global user.email `“email address”`
 
-```
+```bash
 git config –global user.name "MyName"
 
 git config –global user.email "myname@mymail.com"
@@ -18,7 +18,7 @@ git config –global user.email "myname@mymail.com"
 - Initialize git in your repository
 - git init `repository name`
 
-```
+```bash
 git init [OR] git init \home\desktop\repoName
 ```
 
@@ -26,7 +26,7 @@ git init [OR] git init \home\desktop\repoName
 - to clone a remote repository
 - git clone `url`
 
-```
+```bash
 git clone https://github.com/SriSatyaLokesh/git-workshop
 ```
 
@@ -35,7 +35,7 @@ git clone https://github.com/SriSatyaLokesh/git-workshop
 - git add `filename`
 - git add . - to add all files
 
-```
+```bash
 git add README.md
 git add .
 ```
@@ -53,7 +53,7 @@ git add .
 - to commit changes made in file, each commit is a save point.
 - git commit -m `"commit message"`
 
-```
+```bash
 git commit -m "Added README.md"
 ```
 
@@ -69,7 +69,7 @@ git commit -m "Added README.md"
 #### git status
 - shows files that are to be commited
 
-```
+```bash
 git status
 ```
 
@@ -77,14 +77,14 @@ git status
 
 - to remove a file from git repo
 
-```
+```bash
 git rm README.md
 ```
 
 #### git log 
 - to see commit log, everything abour commits - what, when, who, where
 
-``` 
+``` bash
 git log
 ``` 
 
@@ -128,7 +128,7 @@ Let's colloborate with others using remote repos
 - to connect your local repo to the remote repo
 - git remote add origin `"Remote Server Link"` 
 
-```
+```bash
 git add origin https://github.com/SriSatyaLokesh/git-workshop
 ```
 
@@ -142,7 +142,7 @@ git add origin https://github.com/SriSatyaLokesh/git-workshop
 - to pull remote changes into local repo
 - git pull `"remote repo URL"`
 
-```
+```bash
 git pull https://github.com/SriSatyaLokesh/git-workshop
 ````
 

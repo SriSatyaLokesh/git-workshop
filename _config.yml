@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Git Workshop
 description: Here are the set of important commands of git and their usage 
+show_downloads: true

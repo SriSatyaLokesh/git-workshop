@@ -1,6 +1,6 @@
 ## Git Basics and Useful commands
 
-### Git Basics
+### Git Basics -
 
 #### git config
 - configure author name and email adress
@@ -42,11 +42,11 @@ git add .
 
 #### git diff
 - to see what files are in staging, what are changes made
-- git diff
+- `git diff`
     - changes which aren't staged
-- git diff -staged
+- `git diff -staged`
     - changes that are staged
-- git `branch 1` `branch 2`
+- `git branch_1 branch_2`
     - check differences between branches
 
 #### git commit
@@ -58,11 +58,11 @@ git commit -m "Added README.md"
 ```
 
 #### git reset
-- to unstage a file
-- git reset `file`
-- git reset `commit ID`
+- `git reset filename`
+    - to unstage a file
+- `git reset commit_ID`
     - undo commit changes [preserves a copy]
-- git reset --hard `commit ID`
+- `git reset --hard commit_ID`
     - undo commit changes and discards
 
 
@@ -89,8 +89,8 @@ git log
 ``` 
 
 #### git show 
-- to see what all changes are done in a commit
-- git show `commit ID`
+- `git show commit_ID`
+    - to see what all changes are done in a commit
 
 ### Branches - 
 
@@ -134,13 +134,13 @@ git add origin https://github.com/SriSatyaLokesh/git-workshop
 
 #### git push
 - to push your commits from local repo to remote repo
-- git push origin `"branch name"`
+- `git push origin "branch name"`
     - to push specified branch changes
-- git push -all
+- `git push -all`
     - push all branches
 #### git pull
 - to pull remote changes into local repo
-- git pull `"remote repo URL"`
+- `git pull "remote repo URL"`
 
 ```bash
 git pull https://github.com/SriSatyaLokesh/git-workshop

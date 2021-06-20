@@ -105,8 +105,8 @@ Let's start working with branches
 - `git branch "branch name"`
     - creates a new branch
 - `git branch [-d] [-D] "branch name"`
-    - [-d] - Soft Delete
-    - [-D] - Hard Delete
+    - [-d] - Soft Delete - deletes locally
+    - [-D] - Hard Delete - deletes locally and remotely
 #### git checkout 
 - `git checkout "branch name"`
     - to switch to specified branch

@@ -146,7 +146,8 @@ git pull https://github.com/SriSatyaLokesh/git-workshop
 ````
 
 #### git stash and pop
-- just to save the copy of changes, before switching branches and can revert back using pop
+- just to save the copy of changes, before switching branches and can revert back using pop.
+- you can easily use this in VS Code
 
 
 <img src="https://user-images.githubusercontent.com/43106076/122389361-7cbd0480-cf8e-11eb-9000-9b99c8475261.png" alt="Your image title" width="450"/>

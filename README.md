@@ -108,7 +108,6 @@ Let's start working with branches
     - [-d] - Soft Delete
     - [-D] - Hard Delete
 #### git checkout 
-- to switch between branches
 - `git checkout "branch name"`
     - to switch to specified branch
 - `git checkout -b "branch name"`

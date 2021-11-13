@@ -1,0 +1,23 @@
+### Basic Commands 
+- pwd
+- ls
+- mkdir
+- rmdir
+- cd
+- touch - touch f, touch f1, f2,...
+- cat
+- cp existing-file new-file
+- mv file dir
+- head
+- tail
+- tac - revrse order printing
+- more - similar to cat, but for large files
+- less - can adjust width height 
+- su or sudo
+- grep , command | grep <search term>
+- find . (/) -name "*.pdf" - within a dir
+- locate <fileName> 
+- clear
+- which
+- apt-get install
+- apt-get update
